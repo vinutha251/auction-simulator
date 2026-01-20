@@ -5,15 +5,25 @@ This project implements and visualizes different auction mechanisms using Python
 🧠 Implemented Auction Mechanisms
 
 The simulator currently supports three standard auction formats:
+
 English Auction (Open Ascending Bid)
+
 Price increases step-by-step
+
 Bidders drop out when price exceeds their valuation
+
 Last remaining bidder wins
+
 First-Price Sealed Bid Auction
+
 Each bidder submits one sealed bid
+
 Highest bidder wins and pays their own bid
+
 Second-Price (Vickrey) Auction
+
 Highest bidder wins
+
 Winner pays the second-highest bid
 
 🛠️ Tech Stack
@@ -52,6 +62,9 @@ http://127.0.0.1:5000/
 🎯 Features
 
 Add multiple bidders dynamically
+
 Choose auction type from dropdown
+
 View formatted auction results in UI
+
 Clean and responsive web interface
